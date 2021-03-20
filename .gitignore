@@ -1,0 +1,17 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### VENDOR ###
+vendor/
+
+### Python ###
+venv/
+__pycache__
+
+.env
